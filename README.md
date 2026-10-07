@@ -111,6 +111,20 @@ Durante a pesquisa foram realizadas perguntas relacionadas às principais aplica
 - As limitações relacionadas à qualidade dos dados, custo computacional e regulamentações da categoria.
 ---
 
+## 🖼️ Evidências das respostas do Gemini Notebook
+
+Durante a pesquisa, foram realizadas perguntas ao Gemini Notebook com base nas fontes selecionadas para o projeto. As imagens abaixo apresentam exemplos das respostas geradas, incluindo as citações das fontes utilizadas pelo notebook para fundamentar as informações apresentadas.
+
+### Evidências
+
+- [Pergunta 1 — IA na Fórmula 1](./pergunta-01-ia-na-f1.png)
+- [Pergunta 2 — Dados e telemetria](./pergunta-02-dados-e-telemetria.png)
+- [Pergunta 3 — Engenharia e evolução tecnológica](./pergunta-03-engenharia-evolucao.png)
+- [Pergunta 4 — Otimização e simulação](./pergunta-04-otimizacao.png)
+
+As evidências demonstram como o Gemini Notebook utilizou as fontes selecionadas para responder às perguntas e apresentar as respectivas citações ao longo das respostas.
+
+
 ## 📚 Fontes utilizadas
 
 As fontes foram selecionadas buscando reunir materiais acadêmicos, técnicos e conteúdos relacionados à engenharia, tecnologia e automobilismo.
