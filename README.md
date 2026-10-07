@@ -1,11 +1,12 @@
 # IA e Engenharia na Fórmula 1
 
-Projeto acadêmico desenvolvido com o objetivo de estudar como a Inteligência Artificial, a análise de dados e as técnicas de engenharia são aplicadas atualmente na Fórmula 1.
-
----
 <p align="center">
   <img src="./capa-ia-formula1.png" alt="IA e Engenharia na Fórmula 1" width="100%">
 </p>
+
+Projeto acadêmico desenvolvido com o objetivo de estudar como a Inteligência Artificial, a análise de dados e as técnicas de engenharia são aplicadas atualmente na Fórmula 1.
+
+---
 
 ## 📌 Sobre o projeto
 
