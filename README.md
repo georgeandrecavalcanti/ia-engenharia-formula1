@@ -125,6 +125,19 @@ Durante a pesquisa, foram realizadas perguntas ao Gemini Notebook com base nas f
 As evidências demonstram como o Gemini Notebook utilizou as fontes selecionadas para responder às perguntas e apresentar as respectivas citações ao longo das respostas.
 
 
+
+## 📚 Materiais desenvolvidos
+
+Durante o desenvolvimento do projeto, foram produzidos materiais complementares utilizando os recursos do Gemini Notebook e as informações obtidas a partir das fontes selecionadas.
+
+### Materiais disponíveis
+
+- [🧠 Mapa mental — Projeto de Chassi e Dinâmica na Fórmula 1](./materiais/NotebookLM%20Mind%20Map.png)
+- [📄 Material visual — A Revolução Silenciosa da Fórmula 1](./materiais/F1_Blueprint_to_AI.pdf)
+- [🖼️ Infográfico — IA e Engenheiros no Automobilismo](./materiais/IA_vs._Engenheiros_no_Automobilismo.png)
+
+Os materiais complementam o conteúdo apresentado no relatório e registram parte dos recursos desenvolvidos durante a pesquisa.
+
 ## 📚 Fontes utilizadas
 
 As fontes foram selecionadas buscando reunir materiais acadêmicos, técnicos e conteúdos relacionados à engenharia, tecnologia e automobilismo.
