@@ -1,7 +1,7 @@
 # IA e Engenharia na Fórmula 1
 
 <p align="center">
-  <img src="./capa-ia-formula1.png" alt="IA e Engenharia na Fórmula 1" width="100%">
+  <img src="./capa/capa-ia-formula1.png" alt="IA e Engenharia na Fórmula 1" width="100%">
 </p>
 
 Projeto acadêmico desenvolvido com o objetivo de estudar como a Inteligência Artificial, a análise de dados e as técnicas de engenharia são aplicadas atualmente na Fórmula 1.
@@ -117,10 +117,10 @@ Durante a pesquisa, foram realizadas perguntas ao Gemini Notebook com base nas f
 
 ### Evidências
 
-- [Pergunta 1 — IA na Fórmula 1](./pergunta-01-ia-na-f1.png)
-- [Pergunta 2 — Dados e telemetria](./pergunta-02-dados-e-telemetria.png)
-- [Pergunta 3 — Engenharia e evolução tecnológica](./pergunta-03-engenharia-evolucao.png)
-- [Pergunta 4 — Otimização e simulação](./pergunta-04-otimizacao.png)
+- [Pergunta 1 — IA na Fórmula 1](./evidencias/pergunta-01-ia-na-f1.png)
+- [Pergunta 2 — Dados e telemetria](./evidencias/pergunta-02-dados-e-telemetria.png)
+- [Pergunta 3 — Engenharia e evolução tecnológica](./evidencias/pergunta-03-engenharia-evolucao.png)
+- [Pergunta 4 — Otimização e simulação](./evidencias/pergunta-04-otimizacao.png)
 
 As evidências demonstram como o Gemini Notebook utilizou as fontes selecionadas para responder às perguntas e apresentar as respectivas citações ao longo das respostas.
 
